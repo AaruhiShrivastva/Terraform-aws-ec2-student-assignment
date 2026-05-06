@@ -39,3 +39,7 @@ terraform.rc
 # OS
 .DS_Store
 Thumbs.db
+
+# Terraform executable
+terraform.exe
+terraform
